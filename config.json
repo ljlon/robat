@@ -1,5 +1,12 @@
 {
-  "token": "",
-  "appid": "",
-  "encodingAESKey": ""
+  "wechat": {
+    "token": "",
+    "appid": "",
+    "encodingAESKey": ""
+  },
+  "engine": {
+    "tuling": {
+      "key": ""
+    }
+  }
 }
